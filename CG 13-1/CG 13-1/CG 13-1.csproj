@@ -10,9 +10,6 @@
     <Reference Include="NumberUtility">
       <HintPath>..\..\NumberUtility\NumberUtility\bin\Debug\netcoreapp2.1\NumberUtility.dll</HintPath>
     </Reference>
-    <Reference Include="NumberUtility1">
-      <HintPath>..\..\NumberUtility1\NumberUtility1\bin\Debug\netcoreapp2.1\NumberUtility1.dll</HintPath>
-    </Reference>
   </ItemGroup>
 
 </Project>
